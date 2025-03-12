@@ -1,3 +1,4 @@
+package Tugas;
 import java.util.Scanner;
 
 class kata_kunci{
