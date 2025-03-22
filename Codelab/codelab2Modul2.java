@@ -1,6 +1,6 @@
 package Codelab;
 
-public class codelab22 {
+public class codelab2Modul2 {
     public static void main(String[] args){
         RekeningBank Bagas = new RekeningBank();
         Bagas.nomorRekening = "202410370110441";

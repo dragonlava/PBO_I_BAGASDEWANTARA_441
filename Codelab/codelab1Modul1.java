@@ -1,8 +1,9 @@
+package Codelab;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class codelab1 {
+public class codelab1Modul1 {
         public static void main(String[] args) {
             LocalDateTime sekarang = LocalDateTime.now();
             DateTimeFormatter formater = DateTimeFormatter.ofPattern("yyy");

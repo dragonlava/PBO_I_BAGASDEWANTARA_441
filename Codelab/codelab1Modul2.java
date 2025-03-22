@@ -1,6 +1,6 @@
 package Codelab;
 
-public class codelab12 {
+public class codelab1Modul2 {
     public static void main(String[] args){
         hewan hewan1 = new hewan();
         hewan1.nama = "Kucing";
